@@ -1,0 +1,15 @@
+body {
+    background-color: lightsalmon;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    align-items: stretch;
+}
+
+a {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
