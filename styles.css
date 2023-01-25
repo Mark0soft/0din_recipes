@@ -1,15 +1,24 @@
+h1 {
+    font-size: 80px; background-color: sandybrown; color: blueviolet; text-align: center;
+}
+
 body {
     background-color: lightsalmon;
 }
 
-img {
-    height: 300px;
-    width: 300px;
-    align-items: stretch;
+
+.lasagna {
+    font-size: 30px; font-weight: bold; 
 }
 
-a {
-    color: black;
-    font-size: 30px;
-    text-align: center;
+.chicken {
+    font-size: 30px; font-weight: bold;
+}
+
+.salmon {
+    font-size: 30px; font-weight: bold; text-align: right;
+}
+
+img {
+    width: 610px; height: 500px; align-items: center;
 }
