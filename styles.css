@@ -1,11 +1,15 @@
-h1 {
-    font-size: 80px; background-color: sandybrown; color: blueviolet; text-align: center;
+html {
+    box-sizing: border-box;
 }
 
 body {
     background-color: lightsalmon;
 }
 
+h1 {
+    font-size: 80px; background-color: rgb(243, 148, 4); color: rgb(33, 6, 59); text-align: center; 
+    margin-left: 600px; margin-right: 600px; border: 4px; border-color: rgb(33, 6, 59);
+}
 
 .lasagna {
     font-size: 30px; font-weight: bold; 
@@ -16,9 +20,13 @@ body {
 }
 
 .salmon {
-    font-size: 30px; font-weight: bold; text-align: right;
+    font-size: 30px; font-weight: bold; 
 }
 
 img {
-    width: 610px; height: 500px; align-items: center;
+    width: 580px; height: 400px; margin-left: 20px; margin-right: 20px;margin-top: 30px;
+}
+
+.button {
+    flex-wrap: wrap; margin-left: 40px;
 }
