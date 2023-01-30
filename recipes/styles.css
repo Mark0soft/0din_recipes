@@ -1,0 +1,16 @@
+html {
+    box-sizing: border-box; 
+}
+
+body {
+    background-color: lightsalmon;
+}
+
+img {
+    margin-left: 300px;
+}
+
+h3, ul, p {
+margin-left: 40px;
+}
+

@@ -16,7 +16,7 @@ h1 {
 }
 
 .chicken {
-    font-size: 30px; font-weight: bold;
+    font-size: 30px; font-weight: bold; 
 }
 
 .salmon {
@@ -24,9 +24,10 @@ h1 {
 }
 
 img {
-    width: 580px; height: 400px; margin-left: 20px; margin-right: 20px;margin-top: 30px;
+    width: 580px; height: 400px; margin-left: 25px; margin-right: 20px; margin-top: 30px;
 }
 
-.button {
-    flex-wrap: wrap; margin-left: 40px;
+button {
+    background-color: rgb(226, 159, 33); color: black; font: bold;
+    margin-top: 10px; margin-left: 240px; margin-right: 135px;
 }
