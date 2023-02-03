@@ -7,20 +7,9 @@ body {
 }
 
 h1 {
-    font-size: 80px; background-color: rgb(243, 148, 4); color: rgb(33, 6, 59); text-align: center; 
-    margin-left: 600px; margin-right: 600px; border: 4px; border-color: rgb(33, 6, 59);
-}
-
-.lasagna {
-    font-size: 30px; font-weight: bold; 
-}
-
-.chicken {
-    font-size: 30px; font-weight: bold; 
-}
-
-.salmon {
-    font-size: 30px; font-weight: bold; 
+    font-size: 80px; color: rgb(33, 6, 59); background-color:  rgb(243, 148, 4); text-align: center; margin: auto;
+    padding-top: 18px; padding-bottom: 8px;
+    border: 4px; border-color: rgb(33, 6, 59);
 }
 
 img {
@@ -28,6 +17,9 @@ img {
 }
 
 button {
-    background-color: rgb(226, 159, 33); color: black; font: bold;
+    background-color: rgb(226, 159, 33); color: black; font-size: larger;
+    padding: 10px; 
+    
+    font: bold;
     margin-top: 10px; margin-left: 240px; margin-right: 135px;
 }
