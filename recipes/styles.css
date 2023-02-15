@@ -1,16 +1,38 @@
 html {
-    box-sizing: border-box; 
+    box-sizing: border-box;
+    font-size: larger;
+    background-color: rgb(141, 141, 221);
+    margin-left: 5px;
 }
 
-body {
-    background-color: lightsalmon;
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
 }
 
-img {
-    margin-left: 300px;
+h2 {
+    margin-top: 35px;
 }
 
-h3, ul, p {
-margin-left: 40px;
+h3 {
+    margin-top: 40px;
+}
+
+.photo-container {
+    display: flex;
+    margin-left: 40px;
+}
+
+.motto {
+    margin-left: 40px;
+}
+
+.ingredients-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    margin-left: 4px;
 }
 
